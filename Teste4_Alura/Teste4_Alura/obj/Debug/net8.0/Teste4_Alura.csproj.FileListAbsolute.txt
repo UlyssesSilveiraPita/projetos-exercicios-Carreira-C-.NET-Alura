@@ -1,0 +1,14 @@
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\bin\Debug\net8.0\Teste4_Alura.exe
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\bin\Debug\net8.0\Teste4_Alura.deps.json
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\bin\Debug\net8.0\Teste4_Alura.runtimeconfig.json
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\bin\Debug\net8.0\Teste4_Alura.dll
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\bin\Debug\net8.0\Teste4_Alura.pdb
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.AssemblyInfoInputs.cache
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.AssemblyInfo.cs
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.csproj.CoreCompileInputs.cache
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.dll
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\refint\Teste4_Alura.dll
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.pdb
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\Teste4_Alura.genruntimeconfig.cache
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste4_Alura\Teste4_Alura\obj\Debug\net8.0\ref\Teste4_Alura.dll

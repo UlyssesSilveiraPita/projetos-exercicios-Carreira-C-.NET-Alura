@@ -1,0 +1,14 @@
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.AssemblyInfoInputs.cache
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.AssemblyInfo.cs
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.csproj.CoreCompileInputs.cache
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\bin\Debug\net9.0\Teste.exe
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\bin\Debug\net9.0\Teste.deps.json
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\bin\Debug\net9.0\Teste.runtimeconfig.json
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\bin\Debug\net9.0\Teste.dll
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\bin\Debug\net9.0\Teste.pdb
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.dll
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\refint\Teste.dll
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.pdb
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\Teste.genruntimeconfig.cache
+D:\Alura\Carreira Backend C# .NET\C# Criando sua primeira aplicacao\Teste\Teste\obj\Debug\net9.0\ref\Teste.dll

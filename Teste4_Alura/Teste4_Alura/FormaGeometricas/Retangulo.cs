@@ -1,0 +1,15 @@
+﻿namespace Teste4_Alura.FormaGeometricas;
+
+internal class Retangulo : IForma
+{
+    public double Largura { get; set; }
+    public double Altura { get; set; }
+    public double CalcularArea()
+    {
+        return Largura * Altura;
+    }
+    public double CalcularPerimetro()
+    {
+        return 2 * (Largura + Altura);
+    }
+}

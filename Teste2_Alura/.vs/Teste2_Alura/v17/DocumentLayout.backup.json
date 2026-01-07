@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|d:\\alura\\carreira backend c# .net\\c# criando sua primeira aplicacao\\teste2_alura\\teste2_alura\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|solutionrelative:teste2_alura\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|d:\\alura\\carreira backend c# .net\\c# criando sua primeira aplicacao\\teste2_alura\\teste2_alura\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|solutionrelative:teste2_alura\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|d:\\alura\\carreira backend c# .net\\c# criando sua primeira aplicacao\\teste2_alura\\teste2_alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|solutionrelative:teste2_alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|d:\\alura\\carreira backend c# .net\\c# criando sua primeira aplicacao\\teste2_alura\\teste2_alura\\titular2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|solutionrelative:teste2_alura\\titular2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|d:\\alura\\carreira backend c# .net\\c# criando sua primeira aplicacao\\teste2_alura\\teste2_alura\\conta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|solutionrelative:teste2_alura\\conta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|d:\\alura\\carreira backend c# .net\\c# criando sua primeira aplicacao\\teste2_alura\\teste2_alura\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64889E61-9F7E-4218-BF6A-78C247D4F3FF}|Teste2_Alura\\Teste2_Alura.csproj|solutionrelative:teste2_alura\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Podcast.cs",
+              "RelativeDocumentMoniker": "Teste2_Alura\\Podcast.cs",
+              "ToolTip": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Podcast.cs",
+              "RelativeToolTip": "Teste2_Alura\\Podcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T21:59:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Episodio.cs",
+              "RelativeDocumentMoniker": "Teste2_Alura\\Episodio.cs",
+              "ToolTip": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Episodio.cs",
+              "RelativeToolTip": "Teste2_Alura\\Episodio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T21:58:47.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Program.cs",
+              "RelativeDocumentMoniker": "Teste2_Alura\\Program.cs",
+              "ToolTip": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Program.cs",
+              "RelativeToolTip": "Teste2_Alura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:14:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Jogo.cs",
+              "RelativeDocumentMoniker": "Teste2_Alura\\Jogo.cs",
+              "ToolTip": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Jogo.cs",
+              "RelativeToolTip": "Teste2_Alura\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T21:30:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conta2.cs",
+              "DocumentMoniker": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Conta2.cs",
+              "RelativeDocumentMoniker": "Teste2_Alura\\Conta2.cs",
+              "ToolTip": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Conta2.cs",
+              "RelativeToolTip": "Teste2_Alura\\Conta2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:31:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Titular2.cs",
+              "DocumentMoniker": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Titular2.cs",
+              "RelativeDocumentMoniker": "Teste2_Alura\\Titular2.cs",
+              "ToolTip": "D:\\Alura\\Carreira Backend C# .NET\\C# Criando sua primeira aplicacao\\Teste2_Alura\\Teste2_Alura\\Titular2.cs",
+              "RelativeToolTip": "Teste2_Alura\\Titular2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:26:46.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
